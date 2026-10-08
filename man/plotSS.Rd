@@ -28,10 +28,10 @@ Plots an Hermes-cleaned MS2 spectum (mz/int).
 if(FALSE){plotSS(struct, 1, 1)}
 }
 \seealso{
-Other plots: 
-\code{\link{plotFidelity}()},
-\code{\link{plotRawMS2}()},
-\code{\link{plotSOI}()}
+Other plots:
+\code{\link[=plotFidelity]{plotFidelity()}},
+\code{\link[=plotRawMS2]{plotRawMS2()}},
+\code{\link[=plotSOI]{plotSOI()}}
 }
 \author{
 Roger Gine

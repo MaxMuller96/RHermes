@@ -49,7 +49,7 @@ PL(struct, 1) #Access the object using the getter function.
 \seealso{
 processMS1 ExpParam
 
-Other Containers: 
+Other Containers:
 \code{\link{RHermesIL-class}},
 \code{\link{RHermesMS2Exp-class}},
 \code{\link{RHermesSOI-class}}

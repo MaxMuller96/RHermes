@@ -28,9 +28,9 @@ for SIRIUS analysis.
    }
 }
 \seealso{
-Other Exports: 
-\code{\link{exportMGF}()},
-\code{\link{exportMSP}()},
-\code{\link{exportmzML}()}
+Other Exports:
+\code{\link[=exportMGF]{exportMGF()}},
+\code{\link[=exportMSP]{exportMSP()}},
+\code{\link[=exportmzML]{exportmzML()}}
 }
 \concept{Exports}

@@ -41,7 +41,7 @@ ILParam()
 \seealso{
 RHermesIL generateIL
 
-Other Params: 
+Other Params:
 \code{\link{ExpParam-class}},
 \code{\link{SOIParam-class}}
 }

@@ -27,10 +27,10 @@ coloured by their intensity value.
 plotIL(struct, 1)
 }
 \seealso{
-Other Plots: 
-\code{\link{plotCoverage}()},
-\code{\link{plotISF}()},
-\code{\link{plotPL}()}
+Other Plots:
+\code{\link[=plotCoverage]{plotCoverage()}},
+\code{\link[=plotISF]{plotISF()}},
+\code{\link[=plotPL]{plotPL()}}
 }
 \author{
 Roger Gine

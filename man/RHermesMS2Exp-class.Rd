@@ -40,7 +40,7 @@ RHermesMS2Exp() #Do not generate the object manually
 \seealso{
 processMS2 generateIL IL Ident
 
-Other Containers: 
+Other Containers:
 \code{\link{RHermesIL-class}},
 \code{\link{RHermesPL-class}},
 \code{\link{RHermesSOI-class}}

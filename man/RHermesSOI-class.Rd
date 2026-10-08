@@ -41,7 +41,7 @@ SOI(struct, 1) #Access the object using the getter function.
 \seealso{
 findSOI plotSOI plotIso
 
-Other Containers: 
+Other Containers:
 \code{\link{RHermesIL-class}},
 \code{\link{RHermesMS2Exp-class}},
 \code{\link{RHermesPL-class}}

@@ -28,10 +28,10 @@ does the same data point get annotated as two different things).
 if(FALSE){plotCoverage(struct, 1)}
 }
 \seealso{
-Other Plots: 
-\code{\link{plotIL}()},
-\code{\link{plotISF}()},
-\code{\link{plotPL}()}
+Other Plots:
+\code{\link[=plotIL]{plotIL()}},
+\code{\link[=plotISF]{plotISF()}},
+\code{\link[=plotPL]{plotPL()}}
 }
 \author{
 Roger Gine

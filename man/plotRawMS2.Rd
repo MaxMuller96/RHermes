@@ -31,10 +31,10 @@ Plots an all MS2 fragments distribution along the rt of a given
 plotRawMS2(struct, 1, 2)
 }
 \seealso{
-Other plots: 
-\code{\link{plotFidelity}()},
-\code{\link{plotSOI}()},
-\code{\link{plotSS}()}
+Other plots:
+\code{\link[=plotFidelity]{plotFidelity()}},
+\code{\link[=plotSOI]{plotSOI()}},
+\code{\link[=plotSS]{plotSS()}}
 }
 \author{
 Roger Gine

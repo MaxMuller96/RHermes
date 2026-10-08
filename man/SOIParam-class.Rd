@@ -51,7 +51,7 @@ SOIParam()
 \seealso{
 RHermesSOI findSOI getSOIParam
 
-Other Params: 
+Other Params:
 \code{\link{ExpParam-class}},
 \code{\link{ILParam-class}}
 }

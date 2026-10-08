@@ -28,9 +28,9 @@ Exports the superspectra of a given MS2Exp ID into an
    }
 }
 \seealso{
-Other Exports: 
-\code{\link{exportMGF}()},
-\code{\link{exportSIRIUS}()},
-\code{\link{exportmzML}()}
+Other Exports:
+\code{\link[=exportMGF]{exportMGF()}},
+\code{\link[=exportSIRIUS]{exportSIRIUS()}},
+\code{\link[=exportmzML]{exportmzML()}}
 }
 \concept{Exports}

@@ -25,10 +25,10 @@ if(FALSE){
 }
 }
 \seealso{
-Other Plots: 
-\code{\link{plotCoverage}()},
-\code{\link{plotIL}()},
-\code{\link{plotPL}()}
+Other Plots:
+\code{\link[=plotCoverage]{plotCoverage()}},
+\code{\link[=plotIL]{plotIL()}},
+\code{\link[=plotPL]{plotPL()}}
 }
 \author{
 Roger Gine

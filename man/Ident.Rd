@@ -26,13 +26,13 @@ Ident
 Ident(struct, 1)
 }
 \seealso{
-Other Getters: 
-\code{\link{DB}()},
-\code{\link{IL}()},
-\code{\link{MS2Data}()},
-\code{\link{PL}()},
-\code{\link{SOI}()},
-\code{\link{adlist}()}
+Other Getters:
+\code{\link[=DB]{DB()}},
+\code{\link[=IL]{IL()}},
+\code{\link[=MS2Data]{MS2Data()}},
+\code{\link[=PL]{PL()}},
+\code{\link[=SOI]{SOI()}},
+\code{\link[=adlist]{adlist()}}
 }
 \author{
 Roger Gine

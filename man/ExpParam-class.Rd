@@ -66,7 +66,7 @@ combinations}
 
 }
 \seealso{
-Other Params: 
+Other Params:
 \code{\link{ILParam-class}},
 \code{\link{SOIParam-class}}
 }

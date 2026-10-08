@@ -32,10 +32,10 @@ included in the mzML file.
    }
 }
 \seealso{
-Other Exports: 
-\code{\link{exportMGF}()},
-\code{\link{exportMSP}()},
-\code{\link{exportSIRIUS}()}
+Other Exports:
+\code{\link[=exportMGF]{exportMGF()}},
+\code{\link[=exportMSP]{exportMSP()}},
+\code{\link[=exportSIRIUS]{exportSIRIUS()}}
 }
 \author{
 Jordi Capellades

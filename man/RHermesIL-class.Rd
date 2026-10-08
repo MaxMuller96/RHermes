@@ -45,7 +45,7 @@ IL(struct, 1) #Access the object using the getter function.
 \seealso{
 generateIL exportIL plotIL filterIL ILParam
 
-Other Containers: 
+Other Containers:
 \code{\link{RHermesMS2Exp-class}},
 \code{\link{RHermesPL-class}},
 \code{\link{RHermesSOI-class}}

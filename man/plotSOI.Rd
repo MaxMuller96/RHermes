@@ -59,10 +59,10 @@ Plots the SOI data points, the non-SOI points with the same
 p <- plotSOI(struct, 1, "C5H11NO2", c("M+H", "M+Na", "M+K"), c(80, 120))
 }
 \seealso{
-Other plots: 
-\code{\link{plotFidelity}()},
-\code{\link{plotRawMS2}()},
-\code{\link{plotSS}()}
+Other plots:
+\code{\link[=plotFidelity]{plotFidelity()}},
+\code{\link[=plotRawMS2]{plotRawMS2()}},
+\code{\link[=plotSS]{plotSS()}}
 }
 \author{
 Roger Gine

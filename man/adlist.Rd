@@ -24,13 +24,13 @@ adlist
 adlist(struct)
 }
 \seealso{
-Other Getters: 
-\code{\link{DB}()},
-\code{\link{IL}()},
-\code{\link{Ident}()},
-\code{\link{MS2Data}()},
-\code{\link{PL}()},
-\code{\link{SOI}()}
+Other Getters:
+\code{\link[=DB]{DB()}},
+\code{\link[=IL]{IL()}},
+\code{\link[=Ident]{Ident()}},
+\code{\link[=MS2Data]{MS2Data()}},
+\code{\link[=PL]{PL()}},
+\code{\link[=SOI]{SOI()}}
 }
 \author{
 Roger Gine

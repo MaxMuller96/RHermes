@@ -24,13 +24,13 @@ DB
 DB(struct)
 }
 \seealso{
-Other Getters: 
-\code{\link{IL}()},
-\code{\link{Ident}()},
-\code{\link{MS2Data}()},
-\code{\link{PL}()},
-\code{\link{SOI}()},
-\code{\link{adlist}()}
+Other Getters:
+\code{\link[=IL]{IL()}},
+\code{\link[=Ident]{Ident()}},
+\code{\link[=MS2Data]{MS2Data()}},
+\code{\link[=PL]{PL()}},
+\code{\link[=SOI]{SOI()}},
+\code{\link[=adlist]{adlist()}}
 }
 \author{
 Roger Gine

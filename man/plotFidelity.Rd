@@ -36,10 +36,10 @@ Plots the selected SOI isotopic profile and a
 p <- plotFidelity(struct, 1, 8)
 }
 \seealso{
-Other plots: 
-\code{\link{plotRawMS2}()},
-\code{\link{plotSOI}()},
-\code{\link{plotSS}()}
+Other plots:
+\code{\link[=plotRawMS2]{plotRawMS2()}},
+\code{\link[=plotSOI]{plotSOI()}},
+\code{\link[=plotSS]{plotSS()}}
 }
 \author{
 Roger Gine

@@ -52,10 +52,10 @@ Plots the raw data points anotated with a given formula and
 p <- plotPL(struct, 1, "C5H11NO2", c("M+H", "M+Na", "M+K"), c(80, 120))
 }
 \seealso{
-Other Plots: 
-\code{\link{plotCoverage}()},
-\code{\link{plotIL}()},
-\code{\link{plotISF}()}
+Other Plots:
+\code{\link[=plotCoverage]{plotCoverage()}},
+\code{\link[=plotIL]{plotIL()}},
+\code{\link[=plotISF]{plotISF()}}
 }
 \author{
 Roger Gine
